@@ -24,5 +24,6 @@ WordPressなどのファイルを置いても動きません。HTMLなどのフ�
 
 torフォルダの中身は入っていません。別途 MKP224Oなどを利用してOnionドメインを生成し、Torフォルダにぶち込んでください。
 
+Bashを選んでインポートしてください。
 
 [![Run on Repl.it](https://replit.com/badge/github/miremjp/tor-web)](https://replit.com/github/miremjp/tor-web)
