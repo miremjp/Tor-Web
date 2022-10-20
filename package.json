@@ -1,0 +1,18 @@
+{
+  "name": "tor-Web-Free",
+  "version": "1.0.0",
+  "description": "Tor-Web(Onion-Web)を無料で作ることができるスクリプトです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["replit", "tor", "darkweb", "tor-hidden-services"],
+  "author": "Mirem (https://github.com/mirem-jp)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
