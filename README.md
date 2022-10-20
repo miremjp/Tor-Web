@@ -23,3 +23,4 @@ Replitの設定ファイル。色々なことが設定できます。
 WordPressなどのファイルを置いても動きません。HTMLなどのファイルのみ動きます(WordPress動いたら教えて！)
 
 torフォルダの中身は入っていません。別途 MKP224Oなどを利用してOnionドメインを生成し、Torフォルダにぶち込んでください。
+[![Run on Repl.it](https://replit.com/badge/github/miremjp/tor-web)](https://replit.com/github/miremjp/tor-web)
